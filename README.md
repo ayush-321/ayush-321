@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Singh
-- 👀 I’m interested in ReactJS and Cosmos
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m interested in ReactJS
+- 🌱 I’m currently learning Frontend Web Development
 - 📫 How to reach me: -> https://www.linkedin.com/in/ayush-singh-8a0839163/ 
 
 <!---
